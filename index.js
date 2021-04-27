@@ -1,0 +1,1 @@
+prompt=("bienvenido al curso de javascript")
